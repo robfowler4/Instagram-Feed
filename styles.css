@@ -1,0 +1,96 @@
+div {
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+div.post {
+    background: white;
+    margin-top:10px;}
+
+div.post img {
+    width: 100%;
+
+}
+header {
+    background: white;
+    
+    padding: 10px;
+    
+}
+header h1 {
+    margin: 0;
+}
+
+body{
+    background: rgb(209, 209, 209);
+    margin: 0;
+}
+div.post h2, div.post p {
+    padding:10px;
+    margin:0;
+}
+    
+div.container {
+    margin: auto;
+    width: 600px;
+}
+div.post .post-header {
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+p{
+    padding-right: 10px;
+}
+div.post .post-header div:last-child {
+
+    color: darkgray;
+   
+}
+div.post2 {
+    background: white;
+    margin-top:10px;
+    
+}
+div.post2 img {
+    width: 100%;
+
+}
+div.post2 h2, div.post p {
+    padding:10px;
+    margin:0;
+}
+div.container2 {
+    margin: auto;
+    width: 600px;
+}
+div.post2 .post2-header {
+    display: flex;
+    justify-content: space-between;
+}
+ 
+div.post2 .post2-header div:last-child {
+    color: darkgray;
+}
+div.post3 {
+    background: white;
+    margin-top:10px;
+}
+div.post3 img {
+    width: 100%;
+}
+div.post3 h2, div.post p {
+    padding:10px;
+    margin:0;
+}
+div.container3 {
+    margin: auto;
+    width: 600px;
+}
+div.post3 .post3-header {
+    display: flex;
+    justify-content: space-between;
+}
+div.post3 .post3-header div:last-child {
+    color: darkgray;
+}
